@@ -10,11 +10,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 
 ## 📊 기타
-
-![Wonsik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1rreplaceable&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable)]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rreplaceable)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable)
 
 ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
