@@ -1,6 +1,7 @@
 ## ⚙️ 사용하는 기술
 
 - **Level 3** (코드를 작성할 수 있음):
+  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
 
 - **Level 2** (사용법을 알고 있으며, 코드 해석이 가능함):  
