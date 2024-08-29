@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 ## ⚙️ 사용하는 기술
 
 - **Level 3** (코드를 작성할 수 있음):  
@@ -15,3 +16,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable)
 
 ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
