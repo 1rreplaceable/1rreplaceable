@@ -15,4 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable&layout=compact&theme=radical)
 
-- **백준**: ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
+![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
