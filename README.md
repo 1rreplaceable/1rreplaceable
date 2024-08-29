@@ -1,7 +1,7 @@
 ## ⚙️ 사용하는 기술
 
 - **Level 3** (코드를 작성할 수 있음):  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 
 - **Level 2** (사용법을 알고 있으며, 코드 해석이 가능함):  
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
