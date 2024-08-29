@@ -13,6 +13,8 @@
 
 ![Wonsik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1rreplaceable&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable&layout=compact&theme=radical)
 
 ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
