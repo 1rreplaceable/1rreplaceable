@@ -14,7 +14,7 @@
 ## 📊 기타
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rreplaceable)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable&layout=compact)](https://github.com/1rreplaceable/github-readme-stats)
 
 ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
