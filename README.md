@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https:/1rreplaceable/github.com/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 ## ⚙️ 사용하는 기술
 
 - **Level 3** (코드를 작성할 수 있음):  
