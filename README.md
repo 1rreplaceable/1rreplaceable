@@ -12,8 +12,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)
 
 ## 📊 기타
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rreplaceable)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rreplaceable&layout=compact)
 
 ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1205)
