@@ -2,7 +2,7 @@
 
 ## ⚙️ 사용하는 기술
 
-- **Level 3** 
+- **Level 3** :
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
 
 - **Level 2** 
