@@ -1,1 +1,2 @@
-[티스토리 블로그 - Seokjin's Devlog](https://seokjin1205.tistory.com/1)
+## 블로그
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=tistory&logoColor=white)](https://seokjin1205.tistory.com/1)
