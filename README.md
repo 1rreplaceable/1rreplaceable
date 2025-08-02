@@ -27,5 +27,3 @@ React, TypeScript, Spring Boot 기반의 프로젝트를 주로 다루고 있습
 ## 🧑‍💻 Contact Me
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seokjin1205.tistory.com/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1rreplaceable&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/1rreplaceable)
